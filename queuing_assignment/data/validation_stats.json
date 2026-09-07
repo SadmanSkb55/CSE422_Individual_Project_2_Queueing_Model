@@ -1,0 +1,24 @@
+{
+  "exponential": {
+    "E[X]": 10.0,
+    "N": 100000,
+    "custom_mean": 9.993149,
+    "custom_std": 10.004757,
+    "mean_error": 0.006851,
+    "std_error": 0.004757,
+    "ks_statistic": 0.0017398,
+    "ks_pvalue": 0.92211154,
+    "ks_pass": true
+  },
+  "poisson": {
+    "E[Z]": 10.0,
+    "N": 100000,
+    "custom_mean": 10.01214,
+    "custom_var": 10.020093,
+    "mean_error": 0.01214,
+    "var_error": 0.020093,
+    "ks_statistic": 0.12721975,
+    "ks_pvalue": 0.0,
+    "ks_pass": false
+  }
+}
